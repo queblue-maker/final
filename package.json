@@ -1,0 +1,6 @@
+{
+  "name": "question-coach",
+  "private": true,
+  "type": "module",
+  "description": "영어 질문 코치 - 제시 단어로 영어 질문을 만들고 AI 피드백으로 발전시키는 학습 앱"
+}
